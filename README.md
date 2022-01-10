@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anandhinianu
-- 👀 I’m interested in learning different languages
+- 👀 I’m interested in learning different programming languages and debugging
 - 🌱 I’m currently learning java
 - 📫 How to reach me is on mailid..anandhinianu2@gmail.com
 
